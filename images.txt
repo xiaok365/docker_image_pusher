@@ -1,3 +1,2 @@
 nyanmisaka/jellyfin
-nginxproxymanager:dev
-jc21/mariadb-aria
+docker.io/jc21/nginx-proxy-manager:latest
