@@ -1,1 +1,3 @@
 nyanmisaka/jellyfin
+nginxproxymanager:dev
+jc21/mariadb-aria
