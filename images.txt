@@ -2,3 +2,4 @@ iyuucn/iyuuplus-dev:latest
 nyanmisaka/jellyfin
 docker.io/jc21/nginx-proxy-manager:latest
 jxxghp/moviepilot:latest
+sertion1126/publish-helper:2.0.0
