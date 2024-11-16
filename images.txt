@@ -1,4 +1,4 @@
-iyuucn/iyuuplus-dev:latest
+iyuucn/iyuuplus-dev:v8.2.54
 nyanmisaka/jellyfin
 docker.io/jc21/nginx-proxy-manager:latest
 jxxghp/moviepilot:latest
